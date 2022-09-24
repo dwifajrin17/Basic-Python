@@ -2,15 +2,15 @@
 
 **1. Data Type**
 - Integer
-* Integers are zero, positive or negative whole numbers without a fractional part and having unlimited precision
+  * Integers are zero, positive or negative whole numbers without a fractional part and having unlimited precision
 - Float
-* Float value specified with a decimal point
+  * Float value specified with a decimal point
 - Boolean
-* Two type of value in the boolean data type is True or False
+  * Two type of value in the boolean data type is True or False
 - Complex
-* Complex numbers is represented as A+Bj, where A is real part and B is imaginary part
+  * Complex numbers is represented as A+Bj, where A is real part and B is imaginary part
 - String
-* Strings are sequences of character data, strings in python are surrounded by either single quotation marks (' '), or double quotation marks (" ")
+  * Strings are sequences of character data, strings in python are surrounded by either single quotation marks (' '), or double quotation marks (" ")
 
 **2. List**
 - List define by using square brackets [ ], list items are ordered, changeable, allow duplicate values and indexed, the first item has index [0], the second item has index [1] etc
