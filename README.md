@@ -1,4 +1,4 @@
-## Basic Python
+## Python Part 1
 
 **1. Data Type**
 - Integer
